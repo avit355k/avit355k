@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/avit355k/avit355k/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/avit355k/avit355k/output/snake.svg)
 
 ###
 
