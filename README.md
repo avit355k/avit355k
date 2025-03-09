@@ -7,6 +7,12 @@
 
 - 📫 How to reach me **avit355k@gmail.com**
 
+###
+
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg0eXlwajBrNmttbm9pcnI1aGM4M25wbGhoZTR6Mzc5ZXU0bXVzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OJF4MkepsoXDm9bUo/giphy.gif"  />
+
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@avit355k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@avit355k" height="30" width="40" /></a>
@@ -21,3 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avit355k&show_icons=true&locale=en" alt="avit355k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avit355k&" alt="avit355k" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/avit355k/avit355k/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=avit355k&theme=default" alt="Layout with last medium posts"  />
+</div>
