@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avit355k&label=Profile%20views&color=0e75b6&style=flat" alt="avit355k" /> </p>
 
-- 🌱 I’m currently learning **Vue js,Springboot**
+- 🌱 I’m currently learning **Vue.js, Spring Boot**
 
 - 📫 How to reach me **avit355k@gmail.com**
 
