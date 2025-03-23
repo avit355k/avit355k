@@ -36,6 +36,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=avit355k&theme=default" alt="Layout with last medium posts"  />
-</div>
+### 📖 Latest Medium Posts  
+- [Title of Article 1](https://medium.com/@avit355k/article-1-url)  
+- [Title of Article 2](https://medium.com/@avit355k/article-2-url)  
+- [Title of Article 3](https://medium.com/@avit355k/article-3-url)  
+
