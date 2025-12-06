@@ -30,7 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avit355k&show_icons=true&locale=en" alt="avit355k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avit355k&" alt="avit355k" /></p>
+![](https://github-readme-stats.vercel.app/api?username=avit355k&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avit355k&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avit355k&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
 
@@ -40,8 +42,4 @@
 
 ###
 
-### 📖 Latest Medium Posts  
-- [Title of Article 1](https://medium.com/@avit355k/article-1-url)  
-- [Title of Article 2](https://medium.com/@avit355k/article-2-url)  
-- [Title of Article 3](https://medium.com/@avit355k/article-3-url)  
 
