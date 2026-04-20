@@ -3,7 +3,12 @@
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Fullstack+Developer;React%20|%20Mongo%20|%20Node+Enthusiast;Always%20developing%20my%20skills&amp;center=true&amp;width=380&amp;height=45">
 	</a>
+</p> 
+
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/846a4512-f882-4725-852c-37457595b284" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avit355k&label=Profile%20views&color=0e75b6&style=flat" alt="avit355k" /> </p>
 
@@ -11,30 +16,23 @@
 
 - 📫 How to reach me **avit355k@gmail.com**
 
-###
-
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg0eXlwajBrNmttbm9pcnI1aGM4M25wbGhoZTR6Mzc5ZXU0bXVzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OJF4MkepsoXDm9bUo/giphy.gif"  />
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/avit355k" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/a_v_i_t355k" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/avit355k" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/a_v_i_t355k" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 </p>
-
-<br clear="both"/>
-
 
 ---
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
-### 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
