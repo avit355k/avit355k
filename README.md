@@ -75,12 +75,14 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avit355k&show_icons=true&locale=en&layout=compact" alt="avit355k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avit355k&show_icons=true&locale=en" alt="avit355k" /></p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=avit355k&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=avit355k&theme=shadow_green&hide_border=false)<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=avit355k&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false" alt="Avijit's GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avit355k&layout=compact&theme=shadow_green&hide_border=false&langs_count=8" alt="Avijit's Most Used Languages" height="180" /> </p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avit355k&theme=shadow_green&hide_border=false" alt="Avijit's GitHub Streak" /> </p>
 
 
 ###
